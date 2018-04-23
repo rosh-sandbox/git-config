@@ -1,0 +1,17 @@
+[user]
+	name = Roshan Deniyage
+	email = crdeniyage@gmail.com
+[gui]
+[credential]
+	helper = cache
+[core]
+	autocrlf = true
+[push]
+	default = simple
+[pull]
+	rebase = true
+[rerere]
+	enabled = true
+[alias]
+	s = status -s
+	lg = log --oneline --decorate --all --graph
